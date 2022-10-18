@@ -1,2 +1,2 @@
-# Collection of all my Programs & Projects in C
+# Collection of all my public programs & projects done in C
 
